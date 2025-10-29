@@ -1,0 +1,10 @@
+# Ignore NetBeans build and dist folders
+/build/
+/dist/
+
+# Ignore NetBeans private config
+/nbproject/private/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
