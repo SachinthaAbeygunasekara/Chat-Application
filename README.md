@@ -12,7 +12,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles throu
 |--------------|
 |<img width="764" height="538" alt="image" src="https://github.com/user-attachments/assets/8cf09b5f-74ea-487d-b6a2-057c276a2b10" />| 
 | Multiple Users |
-|----------------|
 |<img width="764" height="538" alt="image" src="https://github.com/user-attachments/assets/6a9ed822-22ca-427e-89d9-af72916c21ce" />|
 
 ---
