@@ -9,9 +9,10 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles throu
 ## 🖼️ Preview
 
 | Chat Window |
-|--------------|
+|:------------:|
 |<img width="764" height="538" alt="image" src="https://github.com/user-attachments/assets/8cf09b5f-74ea-487d-b6a2-057c276a2b10" />| 
 | Multiple Users |
+|:---------------:|
 |<img width="764" height="538" alt="image" src="https://github.com/user-attachments/assets/6a9ed822-22ca-427e-89d9-af72916c21ce" />|
 
 ---
@@ -75,17 +76,32 @@ This project was developed as part of the **Object-Oriented Programming (OOP)** 
 
 ```
 ├── src/
+│   ├── controller/
+│   │   └── ChatController.java
+│   │
+│   ├── images/
+│   │   └── user.png
+│   │
 │   ├── model/
-│   │   └── Message.java
+│   │   ├── Message.java
+│   │   └── User.java
+│   │
+│   ├── util/
+│   │   ├── RoundedJButton.java
+│   │   ├── RoundedJPanel.java
+│   │   └── RoundedJTextFiled.java
+│   │
 │   ├── view/
-│   │   └── ChatUI.java
-│   └── controller/
-│       └── ChatController.java
+│   │   ├── AddSenderWindow.form
+│   │   ├── AddSenderWindow.java
+│   │   ├── ChatWindow.form
+│   │   └── ChatWindow.java
+│   │
+│   └── Main.java
+│
 ├── build.xml
-├── README.md
-└── screenshots/
-    ├── chat_window.png
-    └── multi_users.png
+└── README.md
+
 ```
 
 ---
