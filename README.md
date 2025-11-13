@@ -12,7 +12,9 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles throu
 
 | Chat Window | Multiple Users |
 |--------------|----------------|
-| ![Chat Window Screenshot](screenshots/chat_window.png) | ![Multiple Users Screenshot](screenshots/multi_users.png) |
+| ![Chat Window Screenshot](<img width="764" height="538" alt="image" src="https://github.com/user-attachments/assets/8cf09b5f-74ea-487d-b6a2-057c276a2b10" />
+) | ![Multiple Users Screenshot](<img width="1526" height="536" alt="image" src="https://github.com/user-attachments/assets/6a9ed822-22ca-427e-89d9-af72916c21ce" />
+) |
 
 ---
 
@@ -89,25 +91,3 @@ This project was developed as part of the **Object-Oriented Programming (OOP)** 
 ```
 
 ---
-
-## 📸 Screenshots Section (Add Here)
-
-> - **chat_window.png:** Main chat interface showing message area and text input.  
-> - **multi_users.png:** Multiple users sending messages simultaneously.  
-> - You can take screenshots from your running NetBeans app and save them in a `screenshots/` folder inside the project directory.
-
----
-
-## 📜 License
-
-This project is developed for educational purposes under the **OOP Coursework** module.  
-You are free to modify and use it for learning or demonstrations.
-
----
-
-## ✨ Author
-
-**Your Name**  
-📧 *[your.email@example.com]*  
-🧑‍💻 University of Colombo School of Computing (UCSC)  
-🎓 *BIT – Level 6: Object-Oriented Programming Coursework*
